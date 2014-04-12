@@ -1,0 +1,3209 @@
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:20:49:57
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:20:52:22
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:20:52:40
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:20:53:31
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:20:53:42
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:20:55:02
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:20:55:11
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:20:55:27
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:20:55:37
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:01:23
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:01:32
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:03:32
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:03:41
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:10:18
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:12:40
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:12:44
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:12:57
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:14:12
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:14:38
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:15:24
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:15:33
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:15:52
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:16:00
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:16:03
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:16:11
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:16:20
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:16:28
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:25:40
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :4
+Need new pattern :6
+Need new pattern :4
+Need new pattern :5
+Next pattern exists :6
+Need new pattern :4
+Need new pattern :6
+Need new pattern :4
+Need new pattern :6
+Need new pattern :6
+Need new pattern :5
+Need new pattern :4
+Need new pattern :3
+Need new pattern :4
+Need new pattern :6
+Need new pattern :5
+Need new pattern :5
+Need new pattern :3
+Next pattern exists :4
+Need new pattern :3
+Need new pattern :5
+Next pattern exists :3
+Need new pattern :5
+Scrap new does not exist
+Scrap new does not exist
+Scrap new does not exist
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :3
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :4
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:21:28:12
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:31:45
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:33:45
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:33:48
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:33:58
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:45:32
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:45:45
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.11.2008
+Time:21:59:21
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :4
+Need new pattern :5
+*********************************************************
+Program terminating normally..................
+Time:22:00:04
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:12:28:24
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :3
+Need new pattern :6
+Need new pattern :6
+Need new pattern :5
+Need new pattern :3
+Need new pattern :6
+Next pattern exists :4
+Need new pattern :6
+Need new pattern :4
+Need new pattern :5
+Next pattern exists :3
+Need new pattern :3
+Need new pattern :4
+Next pattern exists :3
+Need new pattern :5
+Need new pattern :4
+Next pattern exists :5
+Need new pattern :4
+Need new pattern :5
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Need new pattern :5
+Scrap new does not exist
+Scrap new exists
+Need new pattern :6
+Next pattern exists :5
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :4
+Scrap new does not exist
+Next pattern exists :6
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+*********************************************************
+Program terminating normally..................
+Time:12:33:43
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:12:42:24
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:12:44:44
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:13:02:16
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:13:02:31
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:13:03:56
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:13:04:06
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:13:05:50
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:13:09:16
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:13:09:39
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:13:09:51
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:13:12:28
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new does not exist
+Scrap new does not exist
+*********************************************************
+Program terminating normally..................
+Time:13:12:43
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:13:19:29
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Need new pattern :4
+Next pattern exists :3
+*********************************************************
+Program terminating normally..................
+Time:13:20:22
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:14:10:39
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :4
+Need new pattern :4
+Next pattern exists :4
+Need new pattern :4
+Need new pattern :4
+Need new pattern :4
+Need new pattern :3
+Next pattern exists :3
+Need new pattern :4
+*********************************************************
+Program terminating normally..................
+Time:14:11:11
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:14:13:35
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :3
+Need new pattern :3
+Need new pattern :3
+Next pattern exists :3
+Need new pattern :3
+Need new pattern :3
+Need new pattern :4
+Need new pattern :4
+Next pattern exists :3
+*********************************************************
+Program terminating normally..................
+Time:14:14:18
+*********************************************************
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:14:36:13
+************************ *********************************
+Lines in file:84
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :3
+Need new pattern :3
+Next pattern exists :3
+Need new pattern :3
+Need new pattern :3
+Need new pattern :3
+Next pattern exists :3
+Need new pattern :4
+Need new pattern :4
+Need new pattern :4
+Next pattern exists :4
+Need new pattern :4
+Need new pattern :4
+Need new pattern :5
+Next pattern exists :5
+Need new pattern :5
+Need new pattern :5
+Next pattern exists :5
+Need new pattern :5
+Need new pattern :6
+Next pattern exists :6
+Need new pattern :6
+Need new pattern :6
+Next pattern exists :6
+Need new pattern :6
+Need new pattern :6
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :6
+*********************************************************
+Program terminating normally..................
+Time:14:37:47
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:14:54:47
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:14:54:56
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:14:55:21
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:14:55:28
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:14:58:39
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :3
+Need new pattern :3
+Need new pattern :3
+Need new pattern :3
+Need new pattern :3
+Need new pattern :4
+Need new pattern :3
+Next pattern exists :4
+Need new pattern :3
+Need new pattern :4
+Next pattern exists :5
+Need new pattern :4
+Next pattern exists :4
+Need new pattern :4
+Next pattern exists :6
+Need new pattern :6
+Need new pattern :6
+Next pattern exists :6
+Need new pattern :6
+Need new pattern :5
+Need new pattern :5
+Next pattern exists :6
+Need new pattern :5
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Need new pattern :5
+Scrap new exists
+Need new pattern :5
+Next pattern exists :5
+Scrap new does not exist
+*********************************************************
+Program terminating normally..................
+Time:15:00:16
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:15:05:49
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Need new pattern :3
+Next pattern exists :3
+Need new pattern :3
+Need new pattern :3
+Need new pattern :3
+Next pattern exists :4
+Need new pattern :4
+Need new pattern :4
+Need new pattern :5
+Next pattern exists :4
+Need new pattern :4
+Need new pattern :3
+Need new pattern :5
+Need new pattern :5
+Next pattern exists :5
+Need new pattern :5
+Need new pattern :5
+Next pattern exists :5
+Need new pattern :6
+Need new pattern :6
+Need new pattern :6
+Next pattern exists :5
+Need new pattern :6
+Need new pattern :6
+Next pattern exists :6
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Next pattern exists :6
+*********************************************************
+Program terminating normally..................
+Time:15:08:45
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:15:09:57
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:15:10:02
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:15:11:00
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Need new pattern :3
+Scrap new exists
+Need new pattern :4
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :6
+Scrap new does not exist
+Next pattern exists :5
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :4
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Need new pattern :5
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :3
+Scrap new does not exist
+Next pattern exists :6
+Scrap new does not exist
+Scrap new exists
+Need new pattern :5
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Need new pattern :6
+Need new pattern :4
+Next pattern exists :3
+Need new pattern :5
+Scrap new exists
+Scrap new exists
+Next pattern exists :3
+Need new pattern :6
+Scrap new exists
+Need new pattern :4
+*********************************************************
+Program terminating normally..................
+Time:15:33:04
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:15:36:24
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :3
+*********************************************************
+Program terminating normally..................
+Time:15:36:34
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:15:41:53
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:15:42:37
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:15:42:56
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:15:43:16
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:15:43:36
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :3
+*********************************************************
+Program terminating normally..................
+Time:15:43:44
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:15:43:53
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :3
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:15:45:36
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Need new pattern :3
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:15:46:32
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:15:46:52
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:00:48
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:16:00:51
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:03:55
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:16:04:22
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:05:30
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:09:07
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:16:09:25
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:09:59
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :3
+*********************************************************
+Program terminating normally..................
+Time:16:11:11
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:21:31
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :3
+*********************************************************
+Program terminating normally..................
+Time:16:22:01
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:24:42
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:16:25:21
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:28:11
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:16:29:15
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:31:04
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:16:31:30
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:33:06
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:16:33:17
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:33:41
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:16:33:46
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:36:58
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:16:37:19
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:37:53
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :3
+*********************************************************
+Program terminating normally..................
+Time:16:38:28
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:38:33
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:16:39:18
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:41:07
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :3
+*********************************************************
+Program terminating normally..................
+Time:16:41:24
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:41:43
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:16:42:01
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:42:35
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:16:42:47
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:42:50
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:16:43:07
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:43:12
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:16:43:22
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:16:43:38
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:16:44:11
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:01:03
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:02:53
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:18:03:05
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:03:33
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :3
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:18:04:50
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:05:05
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :3
+Need new pattern :3
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :3
+Need new pattern :3
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:18:06:12
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:07:00
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:18:07:15
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:07:42
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new does not exist
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:10:01
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:18:10:16
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:10:54
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:18:11:06
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:11:47
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:18:12:00
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:14:28
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:18:14:59
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:15:13
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:18:15:28
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:15:52
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:18:16:18
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:16:37
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+*********************************************************
+Program terminating normally..................
+Time:18:16:55
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:17:21
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+*********************************************************
+Program terminating normally..................
+Time:18:17:35
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:18:50
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:18:19:02
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:19:28
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+Scrap new does not exist
+Next pattern exists :3
+Need new pattern :3
+Next pattern exists :3
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:18:20:23
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:20:50
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:18:21:03
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:21:19
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+Need new pattern :3
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Next pattern exists :3
+Need new pattern :3
+Scrap new does not exist
+Next pattern exists :3
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :3
+*********************************************************
+Program terminating normally..................
+Time:18:23:04
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:26:26
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :3
+Need new pattern :3
+Need new pattern :3
+Next pattern exists :3
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+Scrap new exists
+Scrap new exists
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:18:27:51
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:18:43:21
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:18:43:35
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:19:33:19
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+*********************************************************
+Program terminating normally..................
+Time:19:37:08
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:19:40:12
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:19:40:26
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:19:44:18
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Need new pattern :3
+Scrap new does not exist
+Scrap new does not exist
+Scrap new does not exist
+Next pattern exists :3
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:19:45:43
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:02:20
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:20:02:23
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:06:55
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:20:07:03
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:08:18
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:20:08:41
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:09:25
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:20:09:38
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:09:54
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:20:09:59
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:13:47
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+Need new pattern :3
+Scrap new exists
+Scrap new exists
+Need new pattern :3
+Scrap new exists
+Need new pattern :3
+Next pattern exists :3
+Scrap new does not exist
+Scrap new does not exist
+*********************************************************
+Program terminating normally..................
+Time:20:14:31
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:15:14
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Need new pattern :3
+Next pattern exists :3
+Scrap new does not exist
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :3
+Scrap new does not exist
+Need new pattern :3
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+Need new pattern :3
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:20:16:52
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:21:48
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:20:21:58
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:24:12
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Need new pattern :3
+Scrap new exists
+Scrap new exists
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :3
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new does not exist
+Next pattern exists :3
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :3
+*********************************************************
+Program terminating normally..................
+Time:20:26:00
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:27:21
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:20:27:40
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:29:17
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new does not exist
+*********************************************************
+Program terminating normally..................
+Time:20:29:30
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:30:34
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:20:30:48
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:31:14
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:20:31:38
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:32:28
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:20:32:47
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:34:30
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:20:34:42
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:35:21
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:20:35:33
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:36:23
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:20:37:02
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:38:44
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:20:39:15
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:40:28
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:20:40:34
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:41:07
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:20:41:15
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:43:15
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:45:23
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:50:59
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :3
+Scrap new does not exist
+*********************************************************
+Program terminating normally..................
+Time:20:51:19
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:52:34
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+*********************************************************
+Program terminating normally..................
+Time:20:53:10
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:20:56:05
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :3
+Need new pattern :3
+Next pattern exists :3
+Need new pattern :3
+Next pattern exists :3
+Need new pattern :4
+Need new pattern :3
+Next pattern exists :3
+Need new pattern :4
+Next pattern exists :4
+Need new pattern :4
+Need new pattern :4
+Next pattern exists :5
+Need new pattern :5
+Next pattern exists :4
+Need new pattern :5
+Next pattern exists :5
+Need new pattern :6
+Next pattern exists :5
+Need new pattern :6
+Next pattern exists :6
+Need new pattern :6
+Need new pattern :6
+Need new pattern :6
+Next pattern exists :5
+Need new pattern :5
+Need new pattern :6
+Next pattern exists :4
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :5
+Oops!!
+Oops!!
+Oops!!
+Oops!!
+Oops!!
+Need new pattern :5
+Need new pattern :5
+Oops!!
+Need new pattern :5
+Need new pattern :5
+Need new pattern :5
+Need new pattern :6
+Next pattern exists :4
+Need new pattern :3
+Need new pattern :4
+Need new pattern :4
+Next pattern exists :4
+Need new pattern :6
+Need new pattern :5
+Next pattern exists :5
+Need new pattern :6
+Next pattern exists :6
+Need new pattern :6
+Oops!!
+Oops!!
+Oops!!
+Oops!!
+Need new pattern :3
+Need new pattern :3
+Need new pattern :3
+Next pattern exists :4
+Need new pattern :3
+Next pattern exists :6
+Need new pattern :3
+Need new pattern :3
+Scrap new exists
+Need new pattern :6
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+Need new pattern :4
+Need new pattern :5
+Next pattern exists :6
+Need new pattern :5
+Need new pattern :6
+Need new pattern :5
+Need new pattern :4
+Need new pattern :6
+Need new pattern :4
+Next pattern exists :6
+Need new pattern :6
+Need new pattern :6
+Need new pattern :4
+Next pattern exists :5
+Need new pattern :6
+Need new pattern :5
+Need new pattern :5
+Need new pattern :3
+Need new pattern :4
+Next pattern exists :4
+Need new pattern :3
+Need new pattern :3
+Next pattern exists :5
+Need new pattern :6
+Need new pattern :6
+Next pattern exists :3
+Need new pattern :3
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Need new pattern :3
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :3
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :4
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :4
+Need new pattern :5
+Need new pattern :5
+Need new pattern :4
+Need new pattern :5
+Need new pattern :5
+Need new pattern :4
+Next pattern exists :6
+Need new pattern :5
+Next pattern exists :4
+Need new pattern :6
+Scrap new does not exist
+Need new pattern :6
+Need new pattern :3
+Need new pattern :5
+Need new pattern :3
+Need new pattern :6
+Need new pattern :3
+Scrap new does not exist
+Scrap new exists
+Need new pattern :6
+Scrap new exists
+Scrap new does not exist
+Need new pattern :3
+Next pattern exists :4
+Need new pattern :6
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :4
+Need new pattern :3
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :4
+*********************************************************
+Program terminating normally..................
+Time:21:06:18
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:21:10:33
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:10:38
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:21:11:40
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Need new pattern :5
+Need new pattern :5
+*********************************************************
+Program terminating normally..................
+Time:21:12:05
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:21:12:28
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Need new pattern :3
+Next pattern exists :5
+Need new pattern :5
+Need new pattern :5
+Next pattern exists :5
+Need new pattern :5
+Need new pattern :3
+*********************************************************
+Program terminating normally..................
+Time:21:12:56
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:21:13:08
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+*********************************************************
+Program terminating normally..................
+Time:21:13:11
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:21:22:07
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Need new pattern :5
+Next pattern exists :5
+Need new pattern :5
+Need new pattern :5
+Next pattern exists :5
+Need new pattern :6
+Next pattern exists :5
+Need new pattern :6
+Need new pattern :6
+Need new pattern :6
+Next pattern exists :4
+Need new pattern :4
+Need new pattern :6
+Next pattern exists :3
+Need new pattern :3
+Next pattern exists :6
+Need new pattern :3
+Need new pattern :3
+Next pattern exists :6
+Need new pattern :3
+Next pattern exists :4
+Need new pattern :6
+Next pattern exists :4
+Scrap new does not exist
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :3
+Need new pattern :4
+Next pattern exists :5
+Need new pattern :5
+Oops!!
+Oops!!
+Oops!!
+Need new pattern :6
+Need new pattern :5
+Need new pattern :6
+Next pattern exists :4
+Need new pattern :5
+Need new pattern :6
+Need new pattern :6
+Next pattern exists :5
+Need new pattern :3
+Next pattern exists :3
+Need new pattern :3
+Scrap new does not exist
+Need new pattern :3
+Need new pattern :6
+Scrap new does not exist
+Need new pattern :3
+Next pattern exists :4
+Need new pattern :5
+Next pattern exists :3
+Need new pattern :5
+Scrap new exists
+Need new pattern :4
+Next pattern exists :4
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :4
+Need new pattern :5
+Need new pattern :6
+Need new pattern :4
+Next pattern exists :6
+Need new pattern :4
+Need new pattern :4
+Next pattern exists :6
+Need new pattern :6
+Need new pattern :4
+Need new pattern :4
+Need new pattern :6
+Next pattern exists :5
+Need new pattern :5
+Need new pattern :3
+Next pattern exists :6
+Need new pattern :3
+Need new pattern :3
+Need new pattern :5
+Next pattern exists :3
+Need new pattern :5
+Scrap new does not exist
+Next pattern exists :5
+Need new pattern :4
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :5
+Need new pattern :3
+Scrap new does not exist
+Scrap new exists
+Need new pattern :6
+Need new pattern :3
+Need new pattern :5
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :6
+Scrap new does not exist
+Next pattern exists :3
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :4
+Need new pattern :6
+*********************************************************
+Program terminating normally..................
+Time:21:29:46
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:02.23.2008
+Time:21:33:28
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(168, 64)
+Next pattern exists :3
+Need new pattern :4
+Need new pattern :4
+Next pattern exists :5
+Need new pattern :5
+Need new pattern :4
+Need new pattern :5
+Next pattern exists :6
+*********************************************************
+Program terminating normally..................
+Time:21:34:03
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:05.17.2008
+Time:17:54:28
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(280, 103)
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:05.17.2008
+Time:17:54:56
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(140, 51)
+Need new pattern :4
+Next pattern exists :4
+Need new pattern :4
+Need new pattern :4
+Need new pattern :4
+Next pattern exists :3
+Need new pattern :4
+Need new pattern :5
+Next pattern exists :5
+Need new pattern :5
+Need new pattern :5
+Need new pattern :3
+Next pattern exists :5
+Need new pattern :3
+Need new pattern :5
+Need new pattern :3
+Next pattern exists :6
+Need new pattern :3
+Need new pattern :6
+Next pattern exists :6
+Need new pattern :5
+Next pattern exists :6
+Scrap new does not exist
+Need new pattern :6
+Scrap new does not exist
+Need new pattern :6
+Next pattern exists :6
+Need new pattern :3
+Need new pattern :6
+Next pattern exists :3
+Need new pattern :3
+Next pattern exists :3
+Need new pattern :6
+Next pattern exists :6
+Need new pattern :4
+Need new pattern :4
+Next pattern exists :5
+Need new pattern :4
+Next pattern exists :5
+Need new pattern :6
+Need new pattern :4
+Next pattern exists :4
+Need new pattern :4
+Need new pattern :5
+Next pattern exists :5
+Need new pattern :3
+Scrap new exists
+Need new pattern :5
+Next pattern exists :3
+Need new pattern :3
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :6
+Need new pattern :4
+Scrap new exists
+Scrap new exists
+Scrap new does not exist
+Next pattern exists :5
+Need new pattern :6
+Scrap new exists
+Need new pattern :3
+Need new pattern :4
+Need new pattern :3
+Need new pattern :6
+Need new pattern :6
+Need new pattern :6
+Next pattern exists :5
+Need new pattern :4
+Need new pattern :6
+Need new pattern :5
+Next pattern exists :5
+Need new pattern :4
+Need new pattern :5
+Need new pattern :6
+Need new pattern :5
+Need new pattern :3
+Need new pattern :4
+Next pattern exists :6
+Need new pattern :4
+Need new pattern :4
+Need new pattern :6
+Need new pattern :3
+Need new pattern :3
+Need new pattern :3
+Need new pattern :3
+Scrap new exists
+Scrap new does not exist
+Scrap new does not exist
+Next pattern exists :4
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Scrap new does not exist
+Scrap new exists
+Need new pattern :6
+Scrap new exists
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:05.17.2008
+Time:18:00:36
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(140, 51)
+Need new pattern :3
+Need new pattern :3
+Need new pattern :4
+Need new pattern :5
+Need new pattern :6
+Need new pattern :3
+Need new pattern :4
+Need new pattern :3
+Need new pattern :4
+Need new pattern :4
+Need new pattern :5
+Need new pattern :5
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:10.18.2008
+Time:14:36:41
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(140, 51)
+*********************************************************
+Program terminating normally..................
+Time:14:36:49
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:01.01.2009
+Time:14:16:28
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(140, 51)
+Next pattern exists :3
+Need new pattern :4
+Next pattern exists :3
+Need new pattern :4
+*********************************************************
+Program terminating normally..................
+Time:14:16:50
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:03.22.2009
+Time:19:29:15
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(280, 103)
+*********************************************************
+Program terminating normally..................
+Time:19:29:47
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:03.22.2009
+Time:19:29:50
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(98, 36)
+Next pattern exists :3
+Need new pattern :3
+Need new pattern :4
+Need new pattern :4
+Need new pattern :4
+Next pattern exists :4
+Need new pattern :3
+Next pattern exists :5
+Need new pattern :5
+*********************************************************
+Program terminating normally..................
+Time:19:30:30
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:06.01.2009
+Time:22:53:38
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(420, 171)
+*********************************************************
+Program terminating normally..................
+Time:22:53:48
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:09.28.2009
+Time:19:24:49
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(210, 85)
+*********************************************************
+Program terminating normally..................
+Time:19:24:58
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:09.28.2009
+Time:19:39:02
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(210, 85)
+*********************************************************
+Program terminating normally..................
+Time:19:39:24
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:09.28.2009
+Time:19:39:26
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(210, 85)
+*********************************************************
+Program terminating normally..................
+Time:19:39:45
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:10.23.2011
+Time:15:49:51
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(210, 85)
+Need new pattern :3
+Need new pattern :4
+Need new pattern :4
+Need new pattern :4
+Need new pattern :4
+Need new pattern :3
+Next pattern exists :4
+Need new pattern :4
+Next pattern exists :5
+Need new pattern :5
+Need new pattern :5
+Need new pattern :6
+*********************************************************
+Program terminating normally..................
+Time:15:51:03
+*********************************************************
+Lines in file,84
+*********************************************************
+Program starting..................
+Date:04.11.2014
+Time:21:12:43
+************************ *********************************
+Screen Buffer Size(80, 25)
+Window Size(80, 25)
+Left-Top(0, 0)
+Right-Bottom(79, 24)
+Maximum Window Size(80, 25)
+Max Size(240, 88)
+Need new pattern :3
+Next pattern exists :4
+Need new pattern :5
+*********************************************************
+Program terminating normally..................
+Time:21:13:04
+*********************************************************
